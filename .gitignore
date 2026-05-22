@@ -1,0 +1,13 @@
+# Security
+.env
+
+# Virtual Environments
+.venv/
+venv/
+__pycache__/
+
+# Database & Local Storage
+chroma_db/
+
+# macOS System Files
+.DS_Store
